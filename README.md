@@ -46,9 +46,7 @@ Test is done with both sequential and parallel quicksort programs to find the av
 |10000      |13.148478 sec|16.086526 sec|13.648602 sec|14.29453533 sec|
 
 ## Result
-
-Test is done with both sequential 
-and parallel quicksort programs to find the average time taken to finish quicksorting with a sample size of 10, 100, 1000 and 10000.
+Test is done with finding the average time with quicksorting sequentially and parallel with a sample size of 10, 100, 1000, and 10000
 
 ### Singular Quicksort vs Parallel Quicksort Time Comparison
 
