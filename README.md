@@ -62,7 +62,7 @@ and parallel quicksort programs to find the average time taken to finish quickso
 
 ### Graph Time Comparison
 
-[Github](...)
+![Graph](https://github.com/santosonicholas/quicksort/blob/master/chartSequentialParallelQuickSort.PNG)
 
 ### Result Analysis
 From the result we can see that sequential quicksort is much faster than parallel quicksort. Because in the parallel quicksort must do parallelism job, thread creation, time for synchronization, etc. And sequential quicksort just sorting normally with the following algorithm and do not care about the parallelism.
