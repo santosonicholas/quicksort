@@ -19,7 +19,7 @@ GCC
 ```
 1. Download quicksort.c and quicksort_parallel.c
 2. Make the file can compile with type in the terminal (must in the directory path) 
-"g++ quicksort.c -o quicksort -fopenmp" or ""g++ quicksort_parallel.c -o quicksort_parallel -fopenmp"
+"g++ quicksort.c -o quicksort -fopenmp" or ""g++ quicksort_parallel.c -o quicksort_parallel -fopenmp -fpermissive"
 3. Execute the file with type in the terminal (must in the directory path) "./quicksort (samplesize).txt
 ```
 
